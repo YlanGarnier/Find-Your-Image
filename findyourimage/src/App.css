@@ -1,0 +1,34 @@
+.App {
+  background-color: antiquewhite;
+  padding: 50px 100px;
+}
+.title {
+  color: rgb(255, 186, 97);
+  position: static;
+  font-size: 70px;
+}
+
+.searchForm input {
+  background-color: rgb(232, 236, 236);
+  border: 1px solid rgb(0, 0, 0);
+  height: 40px;
+  width: 500px;
+  font-size: 30px;
+}
+
+.images-container {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
