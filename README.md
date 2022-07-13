@@ -1,8 +1,8 @@
-# find-your-image
+# Find-Your-Image
 
 find-your-image is a basic image search engine made with React, using the pixabay image library api
 
-# Getting Started with Create React App
+# Getting Started with Find-Your-Image
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
